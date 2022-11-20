@@ -1,6 +1,6 @@
 <h1 align="center">Online Shopping Application</h1>
 
-<div><img style="margin-left: 35%;" width="30%" height="auto" src="https://previews.123rf.com/images/ikalvi/ikalvi1712/ikalvi171200242/92412982-smiling-shopping-cart-vector-logo-design-shopping-mart-or-app-vector-logo-.jpg" height="175px"/></div>
+<div><img style="margin-left: 35%;" width="30%" height="auto" src="https://www.elluminatiinc.com/wp-content/uploads/2020/07/blog/fooddeliveryinsoutheastasia.jpg" height="175px"/></div>
 
 <p> It is an application which is required to provide all the backend services to a shopping website
 </p>
